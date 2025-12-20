@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "アイデン貞貞メルトダウン",
+  "base_artist": "えなこ feat. P丸様。",
+  "createdAt": "2025-12-20T09:51:39.571321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン",
+      "artist": "えなこ feat. P丸様｡",
+      "has_synced": true,
+      "path": "select/01_アイデン貞貞メルトダウン_えなこ_feat._P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン (P丸様。パートver.)",
+      "artist": "えなこ feat. P丸様。",
+      "has_synced": true,
+      "path": "select/02_アイデン貞貞メルトダウン_(P丸様。パートver.)_えなこ_feat._P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン (P丸様。パートver.) (feat. P丸様。)",
+      "artist": "えなこ",
+      "has_synced": true,
+      "path": "select/03_アイデン貞貞メルトダウン_(P丸様。パートver.)_(feat._P丸様。)_えなこ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン (P丸様。パートver.)",
+      "artist": "えなこ feat. P丸様。",
+      "has_synced": true,
+      "path": "select/04_アイデン貞貞メルトダウン_(P丸様。パートver.)_えなこ_feat._P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン (feat. P丸様。)",
+      "artist": "えなこ",
+      "has_synced": true,
+      "path": "select/05_アイデン貞貞メルトダウン_(feat._P丸様。)_えなこ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン (TV size)",
+      "artist": "えなこ feat. P丸様。",
+      "has_synced": true,
+      "path": "select/06_アイデン貞貞メルトダウン_(TV_size)_えなこ_feat._P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン (Instrumental)",
+      "artist": "えなこ",
+      "has_synced": true,
+      "path": "select/07_アイデン貞貞メルトダウン_(Instrumental)_えなこ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン (P丸様。パートver.)",
+      "artist": "えなこ",
+      "has_synced": true,
+      "path": "select/08_アイデン貞貞メルトダウン_(P丸様。パートver.)_えなこ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン",
+      "artist": "えなこ",
+      "has_synced": true,
+      "path": "select/09_アイデン貞貞メルトダウン_えなこ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン (えなこパートver.)",
+      "artist": "えなこ",
+      "has_synced": true,
+      "path": "select/10_アイデン貞貞メルトダウン_(えなこパートver.)_えなこ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイデン貞貞メルトダウン-えなこ",
+      "artist": "高野麻里佳・石原夏織・金元寿子・津田美波",
+      "has_synced": true,
+      "path": "select/11_アイデン貞貞メルトダウン-えなこ_高野麻里佳・石原夏織・金元寿子・津田美波.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイデン貞貞メルトダウン",
+      "artist": "えなこ feat. P丸様。",
+      "has_synced": false,
+      "path": "select/pl_01_アイデン貞貞メルトダウン_えなこ_feat._P丸様。.txt"
+    }
+  ]
+}
